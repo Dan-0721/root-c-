@@ -1,21 +1,26 @@
-# 🚀 RPG Combat Simulator (root-c-)
+🚀 RPG Combat Simulator (root-c-)
+This is my first C# learning project, aimed at implementing a complete combat numerical calculation and settlement system.
 
-这是我的第一个 C# 学习项目，目标是实现一个完整的战斗数值结算系统。
+📢 Changelog
+[Ver 0.2] - 2026-01-18
+Added [Critical Hit] and [Normal Attack] logic
 
-## 📢 更新日志 (Changelog)
+New Weapons: Added three distinct weapon types.
 
-### [Ver 0.2] - 2026-01-18
-**加入【会心一击】以及【普通攻击】的判定**
-* **新增三种武器类型**
-* **加入敌人【黑龙】**
-* **整个源文件以压缩包形式附上**
+New Enemy: Added the [Black Dragon] boss.
 
-### [Ver 0.1.2] - 2026-01-17
-**新增功能：**
-* **防御系统**：加入了玩家护甲（Armor），攻击力低于防御力时不再扣血。
-* **闪避判定**：引入了 1-100 的随机数判定逻辑，支持手动输入模拟闪避。
-* **精度升级**：血量计算从 `int` 升级为 `double`，支持小数显示。
+Distribution: The entire source code is now attached as a ZIP file.
 
-### [Ver 0.1] - 2026-01-16
-* **核心框架**：实现了基础的加减乘除计算器逻辑。
-* **首个成品**：成功打包出第一个 `.exe` 可执行文件。
+[Ver 0.1.2] - 2026-01-17
+New Features:
+
+Defense System: Introduced Player Armor; no damage is taken when Attack power is lower than Defense.
+
+Evasion Logic: Implemented a 1-100 random number check (supports manual input for testing evasion).
+
+Precision Upgrade: Changed Health (HP) calculation from int to double to support decimal displays.
+
+[Ver 0.1] - 2026-01-16
+Core Framework: Implemented basic arithmetic logic for the combat calculator.
+
+First Milestone: Successfully compiled and exported the first .exe executable file.
