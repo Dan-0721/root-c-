@@ -1,26 +1,25 @@
-🚀 RPG Combat Simulator (root-c-)
-This is my first C# learning project, aimed at implementing a complete combat numerical calculation and settlement system.
+# 🚀 RPG Combat Simulator (root-c-)
 
-📢 Changelog
-[Ver 0.2] - 2026-01-18
-Added [Critical Hit] and [Normal Attack] logic
+This is my first C# learning project, aimed at implementing a complete combat numerical settlement system.
 
-New Weapons: Added three distinct weapon types.
+## 📢 更新日志 (Changelog)
 
-New Enemy: Added the [Black Dragon] boss.
+### [Ver 0.2] - 2026-01-18
+***Added 【Critical Hit】 and 【Normal Attack】 determination***
+* **New Weapons**: Added three distinct weapon types.
+* **New Enemy**: Added the enemy 【Black Dragon】.
+* **Distribution**: The entire source file is attached as a ZIP archive.
 
-Distribution: The entire source code is now attached as a ZIP file.
+***
 
-[Ver 0.1.2] - 2026-01-17
-New Features:
+### [Ver 0.1.2] - 2026-01-17
+**New Features:**
+* **Defense System**: Added player 【Armor】. Damage is no longer dealt when Attack is lower than Defense.
+* **Evasion Logic**: Introduced a 1-100 random number determination logic; supports manual input to simulate evasion.
+* **Precision Upgrade**: HP calculation upgraded from `int` to `double` to support decimal displays.
 
-Defense System: Introduced Player Armor; no damage is taken when Attack power is lower than Defense.
+***
 
-Evasion Logic: Implemented a 1-100 random number check (supports manual input for testing evasion).
-
-Precision Upgrade: Changed Health (HP) calculation from int to double to support decimal displays.
-
-[Ver 0.1] - 2026-01-16
-Core Framework: Implemented basic arithmetic logic for the combat calculator.
-
-First Milestone: Successfully compiled and exported the first .exe executable file.
+### [Ver 0.1] - 2026-01-16
+* **Core Framework**: Implemented basic arithmetic calculator logic.
+* **First Product**: Successfully built the first `.exe` executable file.
