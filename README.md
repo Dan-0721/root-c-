@@ -2,7 +2,7 @@
 
 This is my first C# learning project, aimed at implementing a complete combat numerical settlement system.
 
-## 📢 更新日志 (Changelog)
+## 📢 Changelog
 
 ### [Ver 0.2] - 2026-01-18
 ***Added 【Critical Hit】 and 【Normal Attack】 determination***
