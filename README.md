@@ -5,16 +5,17 @@ This is my first C# learning project, aimed at implementing a complete combat nu
 ## 📢 Changelog
 
 ### [Ver 0.2.1] - 2026-01-18
-***Robust Input Validation & Cinematic Performance (稳健输入校验与演出优化)***
-* **ASCII Startup Logo**: 新增自定义 ASCII Art 字符画启动界面，提升项目辨识度。
-* **Input Sanitization**: 引入 `int.TryParse` 机制，彻底拦截因输入字母或非法符号导致的程序崩溃。
-* **Persistent Menu**: 通过 `while(true)` 实现循环验证逻辑，确保玩家完成有效选择前不会退出。
+***Robust Input Validation & Cinematic Performance***
+
+* **ASCII Startup Logo**: Added a custom ASCII Art identity to the startup screen to establish a professional project brand.
+* **Input Sanitization**: Implemented `int.TryParse` to filter non-numeric inputs and eliminate program crashes caused by invalid characters.
+* **Persistent Menu**: Integrated a `while(true)` validation loop to ensure a valid weapon choice is made before proceeding.
 * **Weapon Arsenal Update**: 
-    * **Great Katana (大太刀)**: 2000 基础伤害，20% 暴击率。
-    * **Giant Cannon (巨型加农炮)**: 1000 基础伤害，50% 暴击率。
-    * **Chicken Bone (鸡骨头)**: 30 基础伤害，实装 99% 概率的双重暴击判定逻辑。
-* **Cinematic Pacing**: 使用 `Thread.Sleep()` 增加文字显示停顿，模拟游戏蓄力与解析的节奏感。
-* **Code Refactoring**: 成功解决变量作用域问题，将 `choice` 数据安全传递至循环体外进行结算。
+    * **Great Katana**: High base damage (2000) with a balanced 20% Critical Rate.
+    * **Giant Cannon**: Moderate damage (1000) with a strategic 50% Critical Rate.
+    * **Chicken Bone**: Low base damage (30) but features a unique 99% double-check Critical determination logic.
+* **Cinematic Pacing**: Applied `Thread.Sleep()` to simulate weapon analysis and create a better narrative rhythm during transitions.
+* **Code Refactoring**: Successfully resolved variable scope issues to securely pass the `choice` data into `finalchoice` outside the loop.
 
 ***
 
