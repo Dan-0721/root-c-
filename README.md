@@ -1,3 +1,4 @@
+# 🚀 RooT v0.1 - Initial Release
 
 ### 🌐 中文
 * 这是 **RooT** 的第一个发行版本！
@@ -9,8 +10,6 @@
     * ⚔️ **攻击:** J
 * 👾 **开发计划:** 我将会在下个版本加入敌人！
 * 🙏 **感谢你的下载！**
-# 🚀 RPG Combat Simulator
-## 🚀 RooT v0.1 - Initial Release
 
 ---
 
