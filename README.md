@@ -1,6 +1,46 @@
-# 🚀 RPG Combat Simulator (root-c-)
 
-This is my first C# learning project, aimed at implementing a complete combat numerical settlement system.
+### 🌐 中文
+* 这是 **RooT** 的第一个发行版本！
+* 我正式添加了一个角色。
+* **当前功能：**
+    * ⬅️➡️ **左右移动:** A / D
+    * ⬆️ **跳跃:** 空格
+    * ⚡ **冲刺:** Shift
+    * ⚔️ **攻击:** J
+* 👾 **开发计划:** 我将会在下个版本加入敌人！
+* 🙏 **感谢你的下载！**
+# 🚀 RPG Combat Simulator
+## 🚀 RooT v0.1 - Initial Release
+
+---
+
+### 🌐 English
+* This is the first release of **RooT**!
+* The main character has been officially added.
+* **Available Actions:**
+    * ⬅️➡️ **Movement:** A / D
+    * ⬆️ **Jump:** Space
+    * ⚡ **Dash:** Shift
+    * ⚔️ **Attack:** J
+* 👾 **Next Version:** Enemies will be added!
+* 🙏 **Thank you for downloading!**
+
+---
+
+### 🌐 日本語
+* **RooT**の初回リリース版です！
+* プレイヤーキャラクターを正式に実装しました。
+* **アクション一覧：**
+    * ⬅️➡️ **左右移動:** A / D
+    * ⬆️ **ジャンプ:** Space
+    * ⚡ **ダッシュ:** Shift
+    * ⚔️ **攻撃:** J
+* 👾 **次回予告:** 敵キャラクターを追加予定です！
+* 🙏 **ダウンロードありがとうございます！**
+
+---
+
+(root-c-) This is my first C# learning project, aimed at implementing a complete combat numerical settlement system.
 
 ## 📢 Changelog
 
